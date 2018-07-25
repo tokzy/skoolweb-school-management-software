@@ -1,0 +1,10 @@
+[08-Jun-2017 02:17:11 UTC] PHP Warning:  unlink(../../logo/1005402281.jpg): No such file or directory in /home/skoolweb/public_html/admin/html/studentedit.php on line 33
+[20-Jun-2017 19:19:18 UTC] PHP Notice:  Undefined index: username in /home/skoolweb/public_html/admin/html/header.php on line 11
+[20-Jun-2017 19:19:18 UTC] PHP Notice:  Undefined index: username in /home/skoolweb/public_html/admin/html/header.php on line 167
+[20-Jun-2017 19:19:33 UTC] PHP Notice:  Undefined index: username in /home/skoolweb/public_html/admin/html/header.php on line 11
+[20-Jun-2017 19:19:33 UTC] PHP Notice:  Undefined index: username in /home/skoolweb/public_html/admin/html/header.php on line 167
+[27-Jun-2017 11:04:01 UTC] PHP Warning:  unlink(../../logo/130381197.jpg): No such file or directory in /home/skoolweb/public_html/admin/html/studentedit.php on line 33
+[11-Jul-2017 09:00:13 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/skoolweb/public_html/connect.php on line 7
+[11-Jul-2017 09:00:16 UTC] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/skoolweb/public_html/connect.php on line 7
+[11-Jul-2017 09:00:20 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/skoolweb/public_html/connect.php on line 7
+[11-Jul-2017 09:25:24 UTC] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/skoolweb/public_html/connect.php on line 7
